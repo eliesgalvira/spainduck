@@ -120803,6 +120803,15 @@ export const bangs = [
     u: "https://www.youtube.com/results?search_query={{{s}}}",
   },
   {
+    c: "Multimedia",
+    d: "www.youtube.com",
+    r: 463021,
+    s: "YouTube",
+    sc: "Video",
+    t: "ytu",
+    u: "https://www.youtube.com/{{{s}}}",
+  },
+  {
     c: "Online Services",
     d: "yubnub.org",
     r: 10,
