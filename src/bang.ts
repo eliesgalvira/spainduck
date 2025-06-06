@@ -120809,7 +120809,7 @@ export const bangs = [
     s: "YouTube",
     sc: "Video",
     t: "ytu",
-    u: "https://www.youtube.com/{{{s}}}",
+    u: "https://www.youtube.com/@{{{s}}}",
   },
   {
     c: "Online Services",
