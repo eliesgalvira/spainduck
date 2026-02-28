@@ -1,5 +1,8 @@
+import { inject } from "@vercel/analytics";
 import { bangs } from "./bang";
 import "./global.css";
+
+inject();
 
 function noSearchDefaultPageRender() {
   const app = document.querySelector<HTMLDivElement>("#app")!;
